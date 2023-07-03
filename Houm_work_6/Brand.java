@@ -1,4 +1,4 @@
-package HW_6;
+package Houm_work_6;
 //
 public class Brand {
  private String brand;

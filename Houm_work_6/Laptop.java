@@ -1,4 +1,4 @@
-package HW_6;
+package Houm_work_6;
 
 import java.util.ArrayList;
 import java.util.HashSet;

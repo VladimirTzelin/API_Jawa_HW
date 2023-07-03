@@ -1,10 +1,11 @@
+package Houm_work_3;
 //1. Пусть дан произвольный список целых чисел, удалить из него четные числа
 
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Task_3 {
+public class Task_3_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("\nВведите длину списка N: ");

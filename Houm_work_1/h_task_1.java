@@ -10,7 +10,7 @@ public class h_task_1 {
     public static void main(String[] args) {
         Scanner number = new Scanner(System.in);
         System.out.print("Введите число: ");
-        int n = number.nextInt();
+        final int n = number.nextInt();
         int sum = 0;
         int factorial = 1;
         for (int i = 1; i <= n; i++) {
@@ -21,5 +21,10 @@ public class h_task_1 {
         System.out.printf("Произведение чисел = %d%n", factorial);
 
         number.close();
+    }
+
+    @Override
+    public String toString() {
+        return "h_task_1 []";
     }
 }

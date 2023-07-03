@@ -1,3 +1,4 @@
+package Houm_work_3;
 //1. Пусть дан произвольный список целых чисел, удалить из него четные числа
 
 import java.util.ArrayList;
